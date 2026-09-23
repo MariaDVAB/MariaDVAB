@@ -44,14 +44,13 @@ My goal is to gain experience in a development team, contribute to real projects
 
 ## 🌍 Languages
 
-- Spanish — Native
-- English — C1
+- English: C1
+- Spanish: Native
 
 ## 📫 Contact
 
 - LinkedIn: [María Daniela](https://www.linkedin.com/in/maria-daniela-aguilera-bola%C3%B1os-6428bb21b/)
 - Email: [mariadvabjob@gmail.com](mailto:mariadvabjob@gmail.com)
-
 
 
 <!--
